@@ -42,7 +42,7 @@ In Akan culture, each day of the week has a corresponding name for both males an
 
 2. **Open the application:**
    - Simply open the `index.html` file in your web browser.
-   - No additional installation or server setup is required.
+   - No additional installation or server setup is required
 
 3. **Using the application:**
    - Enter your birth date using the date picker.
