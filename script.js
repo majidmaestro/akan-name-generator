@@ -31,37 +31,11 @@ form.addEventListener("submit", function (event) {
   const dateValue = document.getElementById("birthdate").value;
   const gender = document.getElementById("gender").value;
 
-  // Simple checks for beginner-friendly validation
-  if (!dateValue) {
-    result.textContent = "Please enter your birth date.";
-    return;
-  }
-
-  if (gender !== "male" && gender !== "female") {
-    result.textContent = "Please select a gender.";
-    return;
-  }
-
   // Convert the date string into numbers
   const birthDate = new Date(dateValue);
   const day = birthDate.getDate();
   const month = birthDate.getMonth() + 1; // JavaScript month is 0-11
   const year = birthDate.getFullYear();
-
-  if (isNaN(day) || isNaN(month) || isNaN(year)) {
-    result.textContent = "Please enter a valid date.";
-    return;
-  }
-
-  if (day < 1 || day > 31) {
-    result.textContent = "The day must be between 1 and 31.";
-    return;
-  }
-
-  if (month < 1 || month > 12) {
-    result.textContent = "The month must be between 1 and 12.";
-    return;
-  }
 
   // Adjust January and February for the formula
   let formulaMonth = month;
