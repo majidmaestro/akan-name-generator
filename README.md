@@ -19,8 +19,8 @@ In Akan culture, each day of the week has a corresponding name for both males an
 ## Author Information
 
 **Name:** Abdul Majid Mwaura  
-**Email:** abdulmajid@example.com  
-**GitHub:** [github.com/abdulmajid](https://github.com/abdulmajid)
+**Email:** abdull 
+**GitHub:** https://majidmaestro.github.io/akan-name-generator/
 
 ---
 
