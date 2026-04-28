@@ -72,7 +72,7 @@ In Akan culture, each day of the week has a corresponding name for both males an
 
 - Given: The user is on the Akan Name Generator page
 - When: The user selects only gender and clicks "Get Name"
-- Then: An error message prompts the user to enter a birth date
+- Then: An error message prompts the user to enter a birth dat
 
 **Scenario 4: Different users get different names based on their birth dates**
 
