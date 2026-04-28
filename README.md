@@ -86,7 +86,7 @@ In Akan culture, each day of the week has a corresponding name for both males an
 
 - **HTML5:** Structure and form elements for user input
 - **CSS3:** Styling and responsive design
-- **JavaScript (ES6):** Core logic for date calculations and Akan name matching
+- **JavaScript (ES6):** Core logic for date calculations and Akan name matching.
   - `Date` object for date handling
   - Mathematical formula for weekday calculation.
   - Arrays for storing weekday and Akan names
