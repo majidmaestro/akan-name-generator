@@ -156,7 +156,7 @@ The result is a number between 0 and 6:
 - Wednesday: Akua
 - Thursday: Yaa
 - Friday: Afua
-- Saturday: Ama
+- Saturday: Ama.
 
 ---
 
