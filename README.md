@@ -10,7 +10,7 @@ In Akan culture, each day of the week has a corresponding name for both males an
 
 1. The user enters their birth date (day, month, year) and selects their gender using an HTML form.
 2. The application extracts the day, month, and year from the provided date.
-3. A mathematical formula calculates which day of the week the user was born on.
+3. A mathematical formula calculates which day of the, week the user was born on.
 4. Based on the calculated day and the selected gender, the corresponding Akan name is retrieved from predefined arrays.
 5. The result is displayed on the webpage showing both the weekday and the Akan name.
 
