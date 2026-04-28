@@ -76,7 +76,7 @@ In Akan culture, each day of the week has a corresponding name for both males an
 
 **Scenario 4: Different users get different names based on their birth dates**
 
-- Given: Two users are born on different days of the week
+- Given: Two users are born on different days of the week.
 - When: Both users submit their respective birth dates
 - Then: Each user receives a different Akan name corresponding to their birth day
 
