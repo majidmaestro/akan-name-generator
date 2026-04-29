@@ -164,7 +164,7 @@ The result is a number between 0 and 6:
 
 For questions, feedback, or contributions, please reach out:
 
-- **Email:** abdu
+- **Email:** abdulmajidabdullahi111@gmail.com
 - **GitHub:** [github.com/abdulmajid](https://github.com/abdulmajid)
 - **LinkedIn:** [linkedin.com/in/abdulmajid](https://linkedin.com/in/abdulmajid)
 
