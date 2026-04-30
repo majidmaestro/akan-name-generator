@@ -172,7 +172,7 @@ For questions, feedback, or contributions, please reach out:
 
 ## License and Copyright
 
-**Copyright © 2026 Abdul Majid Mwaura**
+**Copyright © 2026 Abdul Majid Abdullahi**
 
 This project is licensed under the MIT License. See below for details:
 
